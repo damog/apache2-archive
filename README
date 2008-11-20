@@ -1,10 +1,11 @@
 Apache2::Archive
 
-This is a port of Jon Peterson's Apache::Archive module. The port is incomplete
-and currently being done by David Moreno <david@axiombox.com>.
+This is a port of Jon Peterson's Apache::Archive module. The port
+was done by David Moreno <david@axiombox.com>.
 
+======================================================================
 
-
+Old README follows:
 
 
 Apache::Archive v 0.1

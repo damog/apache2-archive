@@ -1,4 +1,4 @@
-Archive.pm
+lib/Apache2/Archive.pm
 Changes
 MANIFEST
 Makefile.PL
